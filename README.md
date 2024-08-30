@@ -74,7 +74,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MahletSolomon/MahletSolomon/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MahletSolomon/MahletSolomon/snake.svg" alt="Snake animation" />
 
 ###
 
