@@ -18,11 +18,12 @@
 
 ###
 
-<p align="left">I'm Mahlet from Ethiopia<br><br>- 🔭 I’m working as a freelance web developer<br>- 📚 I'm currently working on MERN projects and looking to collaborate<br>- ⚡I'm interested in working in cybersecurity, backend development and game development</p>
+<p align="left">I'm Mahlet from Ethiopia<br><br>- 🔭 I’m working as a freelance web developer<br>- 📚 I'm currently working on MERN projects and looking to collaborate<br>- ⚡I'm interested in working in cybersecurity, backend development and game development</p><br>
 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
+<br>
 
 ###
 
@@ -66,15 +67,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+</div><br>
 
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
+<br>
 ###
 
-<img src="https://raw.githubusercontent.com/MahletSolomon/MahletSolomon/snake.svg" alt="Snake animation" />
 
 ###
 
