@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I'm Mahlet from Ethiopia<br><br>- 🔭 I’m working as a freelance web developer<br>- 📚 I'm currently working on MERN projects and looking to collaborate<br>- </p><br>
+<p align="left">I'm Mahlet from Ethiopia<br><br>- 🔭 I’m working as a freelance web developer<br>- 📚 I'm currently working on MERN projects and looking to collaborate </p><br>
 
 ###
 
